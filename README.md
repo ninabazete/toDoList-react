@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+<p align="center">
+<img  width="200" src="src/components/img/LogoGithub.png">
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+># <p align="center"> To-Do List With React </p>
 
-## Available Scripts
+<p align="center"><strong> Challenge proposed by <strong><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></p>
+  
 
-In the project directory, you can run:
+>## <p align="center">Overview</p>
+
+### About the Challenge
+
+Building a To-do list application is going to fundamentals of React Js. It is a starter project that would help solidify basic concepts like State, Components, Virtual DOM, JSX, CSS and UX.  
+
+The requested are:
+* A textarea and input form, this part takes care of receiving the task which will be rendered to the to-do list component.
+* Management Key and Id to storage the tasks in order (without LocalStorage); 
+* Buttons to let *"Complete"* or *"Delete"* the task;
+* Each task should be given a different color;
+* Every complete task will be given a new color to identificate it;
+* UX Design is free to build;
+  
+### *In the project directory, you can run:*
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+>## <p align="center">Screenshot</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*To-Do List*  
+<img alt="To Do List first plan" src="src/components/img/folderToDoList.png">
 
-### `npm test`
+* I choose the UX with refes from 90' Games and Colors in tons of "tierra" Nude;  
+* Enter with your task;
+* Clic in "Confirm" to include the task at list;
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*Tasks*  
+<img alt="To Do List first plan" src="src/components/img/folderTaskList.png">
+  
+* Task's design with sequences Nude colors;
+* Adaptive Task Component and responsive;
+  
+  
+*Task's complete!*
+<img alt="To Do List first plan" src="src/components/img/folderTaskDone.png">
+ 
+* Clic in	":heavy_check_mark:" to let a line through on the selected task;
+* Receive a new backgroung color in your task;  
+  
+<img alt="To Do List first plan" src="src/components/img/folderDeleteTask.png">  
