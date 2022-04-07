@@ -2,14 +2,15 @@
 <img  width="200" src="src/components/img/LogoGithub.png">
 </p>
 
-># <p align="center"> To-Do List With React </p>
+# <p align="center"> To-Do List With React </p>
+
 
 <p align="center"><strong> Challenge proposed by <strong><a href="https://www.freecodecamp.com/">FreeCodeCamp</a></p>
   
 
->## <p align="center">Overview</p>
-
-### About the Challenge
+## <p align="center">Overview</p>
+  
+### <p>About the Challenge</p>
 
 Building a To-do list application is going to fundamentals of React Js. It is a starter project that would help solidify basic concepts like State, Components, Virtual DOM, JSX, CSS and UX.  
 
@@ -24,28 +25,58 @@ The requested are:
 ### *In the project directory, you can run:*
 
 ### `npm start`
+***  
 
->## <p align="center">Screenshot</p>
+## <p align="center">Screenshot</p>
 
-*To-Do List*  
-<img alt="To Do List first plan" src="src/components/img/folderToDoList.png">
-
+ *To-Do List*
+  
 * I choose the UX with refes from 90' Games and Colors in tons of "tierra" Nude;  
 * Enter with your task;
-* Clic in "Confirm" to include the task at list;
-
-
-*Tasks*  
-<img alt="To Do List first plan" src="src/components/img/folderTaskList.png">
+* Clic in "Confirm" to include the task at list;  
   
+<img alt="To Do List first plan" src="src/components/img/folderToDoList.png">
+
+***
+  
+*Tasks* 
+
 * Task's design with sequences Nude colors;
 * Adaptive Task Component and responsive;
   
+<img alt="To Do List first plan" src="src/components/img/folderTaskList.png">
+  
+***  
   
 *Task's complete!*
+  
+* Clic in	":heavy_check_mark:" to let a line through on the selected task;
+* Change the backgroung color after complete your task;   
+  
 <img alt="To Do List first plan" src="src/components/img/folderTaskDone.png">
  
-* Clic in	":heavy_check_mark:" to let a line through on the selected task;
-* Receive a new backgroung color in your task;  
+***
+  
+*Delete the task!*  
+  
+* Clic in ":x:" to delete the task;
   
 <img alt="To Do List first plan" src="src/components/img/folderDeleteTask.png">  
+  
+
+***  
+>## Technology Development
+
+* JSX
+* React
+* DOM
+* JavaScript 
+* HTML5 
+* CSS3 - Flexbox
+
+>## Author
+*Janaina Bazete (My nickname is Nina).*
+
+**We can talk in my <a href="https://www.linkedin.com/in/janainabazete/">LinkedIn</a>**
+  
+	:shipit:
